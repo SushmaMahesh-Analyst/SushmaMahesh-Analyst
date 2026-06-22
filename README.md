@@ -1,6 +1,6 @@
 ## Hi, I'm Sushma Mahesh👋
 
-## Data Analyst | 4+ Years of Experience | Turning Data into Decisions
+## Data Analyst | 4+ Years of Experience | Transforming Data into Actionable Insights
 
 📍Based in Ireland | 💼 Open to Full-Time Opportunities 
 <!--

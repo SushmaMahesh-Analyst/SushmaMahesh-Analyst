@@ -1,6 +1,8 @@
 ## Hi, I'm Sushma Mahesh👋
 
-## Data Analyst | 4+ years | SQL • Python • Power BI 
+## Data Analyst | 4+ Years of Experience | Turning Data into Decisions
+
+##📍 Based in Ireland | 💼 Open to Full-Time Opportunities 
 <!--
 **SushmaMahesh-Analyst/SushmaMahesh-Analyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

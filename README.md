@@ -23,13 +23,13 @@ KPI Reporting, Regulatory Reporting, Business Intelligence, Data Visualisation, 
 ## 📁 My Recent Projects
 
 ### 1. Exploratory Data Analysis of User Activity on Planning Alerts
-🔗 https://github.com/yourusername/project1
+🔗 
 
 ### 2. Predictive Analytics and Customer Segmentation
-🔗 https://github.com/yourusername/project2
+🔗 
 
-### 3. Digital Marketing in Aviation: Analysis of Airline Strategies in the UK & Ireland
-🔗 https://github.com/yourusername/project3
+### 3. 
+🔗 
 
 ## 🌐 Portfolio
 https://SushmaMahesh-Analyst.github.io

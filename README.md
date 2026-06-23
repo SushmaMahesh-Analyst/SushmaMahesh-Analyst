@@ -9,17 +9,6 @@ I specialise in dashboard development, KPI reporting, data reconciliation, regul
 ## 🧰 My Tech Stack
 SQL, Python (Pandas, NumPy), RStudio, Power BI, Tableau, Excel, Google Sheets, MySQL, PostgreSQL familiarity, Snowflake, GA4, Git basics, GenAI, Jira/Agile 
 
-## 📊 Analytics Skills
-KPI Reporting, Regulatory Reporting, Business Intelligence, Data Visualisation, ETL, Data Reconciliation, Operations Analytics, Risk Insights, Driving revenue growth
-
-## 💼 Experience
-
-### South East Technological University, Carlow, Ireland
-- 
-
-### Pigeon Technologies, Bengaluru, India  
--
-
 ## 📁 My Recent Projects
 
 ### 1. Exploratory Data Analysis of User Activity on Planning Alerts

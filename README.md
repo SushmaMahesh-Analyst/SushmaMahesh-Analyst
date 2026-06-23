@@ -2,12 +2,12 @@
 
 ## Data Analyst | 4+ Years of Experience | Master's at SETU, Ireland
 
-Data professional with 4+ years' experience delivering insights and reporting solutions across APAC and EMEA markets. I specialise in turning complex data into clear, actionable insights that help teams make informed decisions and improve performance.
+Data Analyst with 4+ years of experience in SQL, Python, and BI tools, delivering reporting, dashboards, and insights across APAC and EMEA regions. Focused on turning data into actionable insights that drive performance and revenue.
 
-I specialise in dashboard development, KPI reporting, data reconciliation, regulatory reporting, and business analysis. I transform complex data into clear insights that support informed decision-making and improve business performance. Focused on building dashboards, automating reporting processes, and delivering accurate, high-quality insights that drive operational efficiency and business value.
+I specialise in ETL processes, data cleaning, transformation, validation, and data quality, building scalable BI solutions using Power BI/Tableau. I design and maintain reliable reporting systems, automate workflows, and support business reporting with accurate data.
 
 ## 🧰 My Tech Stack
-SQL, Python (Pandas, NumPy), RStudio, Power BI, Tableau, Excel, Google Sheets, MySQL, PostgreSQL familiarity, Snowflake, GA4, Git basics, GenAI, Jira/Agile 
+SQL, Python (Pandas, NumPy), RStudio, Power BI, Tableau, Excel, Google Sheets, MySQL, PostgreSQL familiarity, Snowflake, GA4, Git Basic, GenAI, Jira/Agile 
 
 ## 📁 My Recent Projects
 

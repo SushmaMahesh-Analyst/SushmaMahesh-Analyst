@@ -1,13 +1,13 @@
 ## Hi, I'm Sushma Mahesh👋
 
-## Data Analyst | 4+ Years of Experience | Master's at SETU, Ireland
+## Marketing Data Analyst | 4+ Years of Experience | Master's at SETU, Ireland
 
-Data Analyst with 4+ years of experience in SQL, Python, and BI tools, delivering reporting, dashboards, and insights across APAC and EMEA regions. Focused on turning data into actionable insights that drive performance and revenue.
+Marketing Data Analyst with 4+ years of experience in SQL, Python Basics, and BI tools, delivering reporting, dashboards, and insights across APAC and EMEA regions. Focused on turning data into actionable insights that drive performance and revenue.
 
-I specialise in ETL processes, data cleaning, transformation, validation, and data quality, building scalable BI solutions using Power BI/Tableau. I design and maintain reliable reporting systems, automate workflows, and support business reporting with accurate data.
+I specialise in ETL processes, Segmentation, data cleaning, transformation, validation, and data quality, building scalable BI solutions using Power BI/Tableau. I design and maintain reliable reporting systems, automate workflows, and support business reporting with accurate data.
 
 ## 🧰 My Tech Stack
-SQL, Python (Pandas, NumPy), RStudio, Power BI, Tableau, Excel, Google Sheets, MySQL, PostgreSQL familiarity, Snowflake, GA4, Git Basic, GenAI, Jira/Agile 
+SQL, Python Basics (Pandas, NumPy), RStudio, Power BI, Tableau, Excel, Google Sheets, MySQL familiarity, GA4, Git Basic, GenAI, Jira/Agile 
 
 ## 📁 My Recent Projects
 
